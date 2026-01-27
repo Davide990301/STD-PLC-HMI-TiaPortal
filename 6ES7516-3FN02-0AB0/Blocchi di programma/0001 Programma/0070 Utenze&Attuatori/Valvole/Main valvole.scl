@@ -60,7 +60,7 @@ BEGIN
 	            "Valvola_E_AlimentazionePompaCip"();
 	            "Valvola_E1_UscitaPompaCip"();
 	            "Valvola_F_RitornoProdotto"();
-	            "Valvola_G_RitornoProdottoScarto/Vasca"();
+	            "Valvola_G_RitornoProdottoScartoVasca"();
 	            "Valvola_H_DrenaggioImpianto"();
 	            "Valvola_H1_DrenaggioVasca"();
 	            "Valvola_I_IngressoVaporeSterilizzatore"();
@@ -82,7 +82,7 @@ BEGIN
 	            "Valvola_Y1_DevioAcidoCamiciaRaffreddatore"();
 	            "Valvola_Y2_DrenaggioAcidoCamiciaRaffreddatore"();
 	            "Valvola_Z_IngressoProdottoVasca"();
-	            "Valvola_Z1_Ingresso_Soda/AcidoNelSerbatoio"();
+	            "Valvola_Z1_Ingresso_Soda&AcidoNelSerbatoio"();
 	            "Valvola_Ev103_6_TenutaPompaPistoni"();
 	        END_REGION ;
 	    END_REGION ;
