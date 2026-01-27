@@ -68,14 +68,14 @@ BEGIN
 	REGION 01 Processo e trattamento
 	    REGION 01 Termico
 	        REGION 02 Sterilizzatore tubo
-	            "Motore_AgitatoreVascaProdotto"();
-	            "Motore_AspiratorePompaPistoni"();
-	            "Motore_CentrifugaLavaggio"();
-	            "Motore_PompaMono"();
-	            "Motore_PompaOlio"();
-	            "Motore_PompaPistoni"();
-	            "Motore_PompaRicircoloAcquaCalda"();
-	            "Motore_PompaRilancioTorre"();
+	           "Motore_AgitatoreVascaProdotto"();
+	           "Motore_AspiratorePompaPistoni"();
+	           "Motore_CentrifugaLavaggio"();
+	           "Motore_PompaMono"();
+	           "Motore_PompaOlio"();
+	           "Motore_PompaPistoni"();
+	           "Motore_PompaRicircoloAcquaCalda"();
+	           "Motore_PompaRilancioTorre"();
 	        END_REGION ;
 	    END_REGION ;
 	END_REGION ;
