@@ -51,9 +51,9 @@ BEGIN
 	            "Valvola_B_Riciclo"();
 	            "Valvola_B1_Riciclo"();
 	            "Valvola_C_Drenaggio"();
-	            "Valvola_CP1_ContropressioneUscitaMono"();
-	            "Valvola_CP2_ContropressioneFinelineaLavoro"();
-	            "Valvola_CP3_ContropressioneFinelineaSterilizzazione"();
+	            "Valvola_CP1_ContropresUscitaMono"();
+	            "Valvola_CP2_ContropresFinelineaLavoro"();
+	            "Valvola_CP3_ContropresFinelineaSteriliz"();
 	            "Valvola_D_ScaricoCondense"();
 	            "Valvola_D1_ModulanteRaffreddamentoAcqua"();
 	            "Valvola_D2_ModulanteRiscaldamentoAcqua"();
@@ -80,7 +80,7 @@ BEGIN
 	            "Valvola_XX_PressurizzazioneAcido"();
 	            "Valvola_Y_IngressoAcidoCamiciaRaffreddatore"();
 	            "Valvola_Y1_DevioAcidoCamiciaRaffreddatore"();
-	            "Valvola_Y2_DrenaggioAcidoCamiciaRaffreddatore"();
+	            "Valvola_Y2_DrenagAcidoCamiciaRaffred"();
 	            "Valvola_Z_IngressoProdottoVasca"();
 	            "Valvola_Z1_Ingresso_Soda&AcidoNelSerbatoio"();
 	            "Valvola_Ev103_6_TenutaPompaPistoni"();

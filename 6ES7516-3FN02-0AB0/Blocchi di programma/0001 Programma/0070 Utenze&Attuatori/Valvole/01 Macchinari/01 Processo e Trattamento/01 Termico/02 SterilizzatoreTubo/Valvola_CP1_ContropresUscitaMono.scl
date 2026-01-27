@@ -1,4 +1,4 @@
-﻿FUNCTION "Valvola_CP1_ContropressioneUscitaMono" : Void
+﻿FUNCTION "Valvola_CP1_ContropresUscitaMono" : Void
 { S7_Optimized_Access := 'TRUE' }
 VERSION : 0.1
 

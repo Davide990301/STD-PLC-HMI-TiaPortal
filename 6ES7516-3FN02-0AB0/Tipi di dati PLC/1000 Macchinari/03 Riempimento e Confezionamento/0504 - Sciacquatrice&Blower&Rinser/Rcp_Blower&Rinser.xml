@@ -6,40 +6,12 @@
       <Interface>
         <Sections xmlns="http://www.siemens.com/automation/Openness/SW/Interface/v5">
           <Section Name="None">
-            <Member Name="RecipeName" Datatype="&quot;Rcp_Name_Type&quot;">
-              <AttributeList>
-                <BooleanAttribute Name="SetPoint" SystemDefined="true">true</BooleanAttribute>
-              </AttributeList>
-            </Member>
-            <Member Name="General" Datatype="&quot;Rcp_Generale&quot;">
-              <AttributeList>
-                <BooleanAttribute Name="SetPoint" SystemDefined="true">true</BooleanAttribute>
-              </AttributeList>
-            </Member>
-            <Member Name="Filler" Datatype="&quot;Rcp_Filler&quot;">
-              <AttributeList>
-                <BooleanAttribute Name="SetPoint" SystemDefined="true">true</BooleanAttribute>
-              </AttributeList>
-            </Member>
-            <Member Name="VacuumFiller" Datatype="&quot;Rcp_VacuumFiller&quot;">
-              <AttributeList>
-                <BooleanAttribute Name="SetPoint" SystemDefined="true">true</BooleanAttribute>
-              </AttributeList>
-            </Member>
-            <Member Name="Capper" Datatype="&quot;Rcp_Capper&quot;">
-              <AttributeList>
-                <BooleanAttribute Name="SetPoint" SystemDefined="true">true</BooleanAttribute>
-              </AttributeList>
-            </Member>
-            <Member Name="Blower / Rinser" Datatype="&quot;Rcp_Blower&amp;Rinser&quot;">
-              <AttributeList>
-                <BooleanAttribute Name="SetPoint" SystemDefined="true">true</BooleanAttribute>
-              </AttributeList>
-            </Member>
+            <Member Name="AltezzaCarosello" Datatype="Real" />
+            <Member Name="Abilitazione1Trattamento" Datatype="Bool" />
           </Section>
         </Sections>
       </Interface>
-      <Name>Rcp_V100_Type</Name>
+      <Name>Rcp_Blower&amp;Rinser</Name>
       <Namespace />
     </AttributeList>
     <ObjectList>

@@ -625,6 +625,5 @@ BEGIN
 	        "Pid".P[#K_PidInt].In.K_Analogica_Uscita := 0;
 	    END_IF;
 	END_REGION
-	
 END_FUNCTION
 

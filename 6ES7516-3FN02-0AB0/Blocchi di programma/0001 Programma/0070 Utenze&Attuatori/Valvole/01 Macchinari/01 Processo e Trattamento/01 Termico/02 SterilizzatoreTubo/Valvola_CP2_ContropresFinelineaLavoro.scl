@@ -1,4 +1,4 @@
-﻿FUNCTION "Valvola_CP2_ContropressioneFinelineaLavoro" : Void
+﻿FUNCTION "Valvola_CP2_ContropresFinelineaLavoro" : Void
 { S7_Optimized_Access := 'TRUE' }
 VERSION : 0.1
 
